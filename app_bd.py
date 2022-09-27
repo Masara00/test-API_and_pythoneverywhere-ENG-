@@ -66,4 +66,4 @@ def filters():
     connection.close()
     return jsonify(result)
 
-app.run()
+# app.run()
